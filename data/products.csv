@@ -1,11 +1,11 @@
 product_id,name,category,cost,price
 P001,Mochila Urbana 20L,Mochilas,40000,89900
 P002,Mochila Escolar 18L,Mochilas,35000,79900
-"P003,Malet�n Port�til 15\",Maletines,45000,99900"
+P003,Maletín Portátil 15in,Maletines,45000,99900
 P004,Bolso Deportivo Mediano,Deportes,38000,85900
-P005,Cartuchera B�sica,Accesorios,8000,19900
+P005,Cartuchera Básica,Accesorios,8000,19900
 P006,Morral de Viaje 40L,Viajero,60000,149900
-P007,Bolsa Ecol�gica Mediana,Eco,5000,14900
-P008,Bolsa Ecol�gica Grande,Eco,7000,19900
+P007,Bolsa Ecológica Mediana,Eco,5000,14900
+P008,Bolsa Ecológica Grande,Eco,7000,19900
 P009,Canguro Urbano,Accesorios,15000,39900
 P010,Maleta de Ruedas Cabina,Viajero,90000,249900
