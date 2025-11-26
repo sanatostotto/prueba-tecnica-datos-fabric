@@ -186,9 +186,9 @@ Entrega final
 
 El candidato debe entregar:
 
-Un repositorio en GitHub / Azure DevOps con:
+envíar un .zip con el proyecto a los correos Javier.Lopez@totto.com y gabriel.sanabria@totto.com
 
-El notebook resuelto
+proyecto con el notebook resuelto
 
 Cualquier artefacto adicional (si aplica)
 
